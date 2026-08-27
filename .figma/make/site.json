@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly generate tailored documents based on user-uploaded requirements, streamlining workflows for professionals seeking efficiency and accuracy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
